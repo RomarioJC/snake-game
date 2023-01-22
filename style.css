@@ -1,0 +1,35 @@
+body{
+    margin-top: 100px;
+    background-color: blue;
+   }
+   #gameContainer{
+    text-align: center;
+   }
+   .highScore{
+    font-family: 'Calibre', cursive;
+    font-size: 20px;
+    color: white;
+   }
+   #gameBoard{
+    border: 3px solid white;
+   }
+   #scoreText{
+    font-family: 'Calibre', cursive;
+    font-size: 50px;
+    color: white;
+   }
+   #resetBtn{
+    font-family: 'Calibre', cursive;
+    font-size: 22px;
+    width: 100px;
+    height: 50px;
+    border: 4px solid;
+    cursor: pointer;
+    border-radius: 15px;
+    font-weight: bold;
+    color: white;
+    background-color: red;
+   }
+   #resetBtn:hover{
+    background-color: #ff479a;
+   }
